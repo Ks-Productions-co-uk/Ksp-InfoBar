@@ -4,6 +4,8 @@ Author - The-Last-Knight @ https://discord.gg/ks-productions
 ===================================================================================================================
 
 A basic script that allows Server owners the ability to display text on screen in the lower right. Add as many message as you desire in the config.lua. Change the colour of the main text and the back ground colour, also change the opacity for both. Changable text and size in the config also. its currently using the Gtav Themed text style as seen in the clip. and thats about it :) 
+
+Preview : https://youtu.be/N4_a6y7KOpQ
 ===================================================================================================================
 
 Instulation:

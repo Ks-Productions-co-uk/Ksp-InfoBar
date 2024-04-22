@@ -8,7 +8,7 @@ A basic script that allows Server owners the ability to display text on screen i
 Preview : https://www.youtube.com/watch?v=8cR7fHK5fnk
 ===================================================================================================================
 
-Instulation:
+Instullation:
 
 1 - Download the file and extract the contents.
 2 - Script folder name MUST be (Ksp-InfoBar) If it shows as Ksp-InfoBar-Main or else remove the (-Main).
